@@ -12,10 +12,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "GameJoltAPI",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
